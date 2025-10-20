@@ -1,1 +1,2 @@
-print("hello kayz")
+# change hello to bye
+print("Bye kayz")
